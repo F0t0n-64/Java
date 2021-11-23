@@ -1,0 +1,16 @@
+GET http://localhost:8080/gameConsole
+
+###
+GET http://localhost:8080/gameConsole
+
+###
+GET http://localhost:8080/gameConsole/okey
+
+###
+POST http://localhost:8080/gameConsole
+Content-Type: application/json
+
+{
+  "id": "PlayStation5",
+  "price": 10000.00
+}

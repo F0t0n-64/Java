@@ -1,0 +1,20 @@
+cz/cvut/tjv/internet_shop/repository/PublisherRepositoryTest.java
+ cz.cvut.tjv.internet_shop.repository.PublisherRepositoryTest
+cz/cvut/tjv/internet_shop/service/PublisherServiceTests.java
+ cz.cvut.tjv.internet_shop.service.PublisherServiceTests
+cz/cvut/tjv/internet_shop/repository/GameConsoleRepositoryTest.java
+ cz.cvut.tjv.internet_shop.repository.GameConsoleRepositoryTest
+cz/cvut/tjv/internet_shop/repository/GameRepositoryTest.java
+ cz.cvut.tjv.internet_shop.repository.GameRepositoryTest
+cz/cvut/tjv/internet_shop/service/GameConsoleServiceTests.java
+ cz.cvut.tjv.internet_shop.service.GameConsoleServiceTests
+cz/cvut/tjv/internet_shop/service/GameServiceTests.java
+ cz.cvut.tjv.internet_shop.service.GameServiceTests
+cz/cvut/tjv/internet_shop/controller/GameConsoleControllerTests.java
+ cz.cvut.tjv.internet_shop.controller.GameConsoleControllerTests
+cz/cvut/tjv/internet_shop/controller/PublisherControllerTests.java
+ cz.cvut.tjv.internet_shop.controller.PublisherControllerTests
+cz/cvut/tjv/internet_shop/application/RestServerTest.java
+ cz.cvut.tjv.internet_shop.application.RestServerTest
+cz/cvut/tjv/internet_shop/controller/GameControllerTests.java
+ cz.cvut.tjv.internet_shop.controller.GameControllerTests

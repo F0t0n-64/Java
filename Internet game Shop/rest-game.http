@@ -1,0 +1,18 @@
+GET http://localhost:8080/game
+
+###
+GET http://localhost:8080/game
+
+###
+GET http://localhost:8080/game/okey
+
+###
+POST http://localhost:8080/game
+Content-Type: application/json
+
+{
+   "id": "God of War",
+   "price": 10000,
+   "publisher": "publisher",
+  "platformsForGame": ["PlayStation5"]
+}

@@ -1,0 +1,60 @@
+cz/cvut/tjv/internet_shop/api/dto/PublisherViews.java
+ cz.cvut.tjv.internet_shop.api.dto.PublisherViews
+ cz.cvut.tjv.internet_shop.api.dto.PublisherViews$Internal
+ cz.cvut.tjv.internet_shop.api.dto.PublisherViews$Public
+cz/cvut/tjv/internet_shop/business/AbstractCrudService.java
+ cz.cvut.tjv.internet_shop.business.AbstractCrudService
+cz/cvut/tjv/internet_shop/api/exception/RestResponseEntityExceptionHandler.java
+ cz.cvut.tjv.internet_shop.api.exception.RestResponseEntityExceptionHandler
+cz/cvut/tjv/internet_shop/dao/SQLiteDialect.java
+ cz.cvut.tjv.internet_shop.dao.SQLiteDialect
+cz/cvut/tjv/internet_shop/api/dto/GameViews.java
+ cz.cvut.tjv.internet_shop.api.dto.GameViews
+ cz.cvut.tjv.internet_shop.api.dto.GameViews$Internal
+ cz.cvut.tjv.internet_shop.api.dto.GameViews$Public
+cz/cvut/tjv/internet_shop/api/exception/NoEntityFoundException.java
+ cz.cvut.tjv.internet_shop.api.exception.NoEntityFoundException
+cz/cvut/tjv/internet_shop/api/dto/GameDTO.java
+ cz.cvut.tjv.internet_shop.api.dto.GameDTO
+cz/cvut/tjv/internet_shop/dao/PublisherJpaRepository.java
+ cz.cvut.tjv.internet_shop.dao.PublisherJpaRepository
+cz/cvut/tjv/internet_shop/business/EntityStateException.java
+ cz.cvut.tjv.internet_shop.business.EntityStateException
+cz/cvut/tjv/internet_shop/api/dto/GameConsoleViews.java
+ cz.cvut.tjv.internet_shop.api.dto.GameConsoleViews
+ cz.cvut.tjv.internet_shop.api.dto.GameConsoleViews$Internal
+ cz.cvut.tjv.internet_shop.api.dto.GameConsoleViews$Public
+cz/cvut/tjv/internet_shop/api/dto/PublisherDTO.java
+ cz.cvut.tjv.internet_shop.api.dto.PublisherDTO
+cz/cvut/tjv/internet_shop/RestServer.java
+ cz.cvut.tjv.internet_shop.RestServer
+cz/cvut/tjv/internet_shop/api/controller/GameController.java
+ cz.cvut.tjv.internet_shop.api.controller.GameController
+cz/cvut/tjv/internet_shop/business/GameConsoleService.java
+ cz.cvut.tjv.internet_shop.business.GameConsoleService
+cz/cvut/tjv/internet_shop/api/controller/GameConsoleController.java
+ cz.cvut.tjv.internet_shop.api.controller.GameConsoleController
+cz/cvut/tjv/internet_shop/domain/Game.java
+ cz.cvut.tjv.internet_shop.domain.Game
+cz/cvut/tjv/internet_shop/api/controller/PublisherController.java
+ cz.cvut.tjv.internet_shop.api.controller.PublisherController
+cz/cvut/tjv/internet_shop/api/dto/GameConsoleDTO.java
+ cz.cvut.tjv.internet_shop.api.dto.GameConsoleDTO
+cz/cvut/tjv/internet_shop/dao/GameJpaRepository.java
+ cz.cvut.tjv.internet_shop.dao.GameJpaRepository
+cz/cvut/tjv/internet_shop/business/PublisherService.java
+ cz.cvut.tjv.internet_shop.business.PublisherService
+cz/cvut/tjv/internet_shop/api/converter/GameConverter.java
+ cz.cvut.tjv.internet_shop.api.converter.GameConverter
+cz/cvut/tjv/internet_shop/dao/GameConsoleJpaRepository.java
+ cz.cvut.tjv.internet_shop.dao.GameConsoleJpaRepository
+cz/cvut/tjv/internet_shop/business/GameService.java
+ cz.cvut.tjv.internet_shop.business.GameService
+cz/cvut/tjv/internet_shop/api/converter/GameConsoleConverter.java
+ cz.cvut.tjv.internet_shop.api.converter.GameConsoleConverter
+cz/cvut/tjv/internet_shop/domain/GameConsole.java
+ cz.cvut.tjv.internet_shop.domain.GameConsole
+cz/cvut/tjv/internet_shop/domain/Publisher.java
+ cz.cvut.tjv.internet_shop.domain.Publisher
+cz/cvut/tjv/internet_shop/api/converter/PublisherConverter.java
+ cz.cvut.tjv.internet_shop.api.converter.PublisherConverter

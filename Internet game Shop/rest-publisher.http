@@ -1,0 +1,16 @@
+GET http://localhost:8080/publisher
+
+###
+GET http://localhost:8080/publisher
+
+###
+GET http://localhost:8080/publisher/okey
+
+###
+POST http://localhost:8080/publisher
+Content-Type: application/json
+
+{
+   "id": "Name",
+   "income": 120000
+}
