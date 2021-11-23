@@ -1,0 +1,16 @@
+GET http://localhost:8080/users
+
+###
+GET http://localhost:8080/admin/users
+
+###
+GET http://localhost:8080/users/blebleble
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+   "username": "userxyz",
+   "dateOfBirth": "1.9.1990"
+}
